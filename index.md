@@ -9,6 +9,7 @@ LN Node
 
 - Nostr: `npub1rd0z8aj4wrt7f59xfy95jtp5ue56z4vw7z2mfngnu4pjnj65vpyqxm5cc2`
 - Email: `nikotsla@proton.me`
+- Stacker News: `https://stacker.news/nikotsla`
 
 ## Want to help?
 
